@@ -1,0 +1,3 @@
+module MingguKe6 {
+	
+}
